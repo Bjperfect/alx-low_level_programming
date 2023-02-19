@@ -12,6 +12,7 @@ int main(void)
 
 	char d;
 
+for
 	c = 'a';
 	d = 'A';
 	while
