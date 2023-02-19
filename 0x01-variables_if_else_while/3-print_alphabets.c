@@ -12,7 +12,6 @@ int main(void)
 
 	char d;
 
-for
 	c = 'a';
 	d = 'A';
 	while
@@ -22,7 +21,7 @@ for
 			c++;
 		}
 	while
-		(d <= 'z')
+		(d <= 'Z')
 		{
 			putchar(d);
 			d++;
