@@ -10,7 +10,7 @@ int main(void)
 char c;
 
 c = '0';
-while
+for
 (c <= '9')
 c++;
 {
