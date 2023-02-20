@@ -11,8 +11,8 @@ char c;
 
 c = '0';
 while
-	(c <= '10')
-		c++;
+(c <= '9')
+c++;
 {
 putchar(c);
 }
