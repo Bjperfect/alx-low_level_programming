@@ -9,13 +9,11 @@ int main(void)
 {
 char c;
 
-c = '0';
 for
-(c <= '9')
+(c = '0'; c <= '9')
 c++;
-{
-printf("%c", c);
-}
+printf("%d", c);
+
 putchar('\n');
 return (0);
 }
