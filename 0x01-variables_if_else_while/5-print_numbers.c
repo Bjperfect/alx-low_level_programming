@@ -7,11 +7,11 @@
 
 int main(void)
 {
-char c;
+int c;
 
 for
 (c = '0'; c <= '9')
-c++;
+	c++;
 printf("%d", c);
 
 putchar('\n');
