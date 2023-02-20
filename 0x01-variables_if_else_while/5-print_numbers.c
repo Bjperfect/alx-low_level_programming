@@ -14,7 +14,7 @@ while
 (c <= '9')
 c++;
 {
-putchar(c);
+printf("%c", c);
 }
 putchar('\n');
 return (0);
