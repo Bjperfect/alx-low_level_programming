@@ -6,11 +6,11 @@
 
 void print_alphabet_x10(void)
 {
-	int A = 0
+	int count = 0
 
 	char lowercase;
 
-	while (A++ < 10)
+	while (count++ < 10)
 	{
 	for (lowercase = 'a'; lowercase <= 'z'; lowercase++)
 		_putchar(lowercase);
