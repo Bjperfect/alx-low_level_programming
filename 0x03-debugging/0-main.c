@@ -1,10 +1,11 @@
 #include "main.h"
 /**
-*main - test function for positive or negative
-*Return: 0
+* positive_or_negative - test function for positive or negative
+* @i: value
+* Return: 0
 */
 
-int main(void)
+void positive_or_negative(int i)
 {
 int i;
 
