@@ -15,5 +15,5 @@ for (; n > 0; i++)
 s[i] = b;
 n--;
 }
-ZZreturn (s);
+return (s);
 }
